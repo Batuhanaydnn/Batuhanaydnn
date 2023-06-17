@@ -65,4 +65,3 @@ Timezone: Europe/Istanbul
 
 ... [More About Me](https://batuhanaydn.github.io/)
 
-> Written with [StackEdit](https://stackedit.io/).
